@@ -1,4 +1,4 @@
 def func3():
-	print("This is the master branch!")
+	print("This is a branch!")
 
 func3()
